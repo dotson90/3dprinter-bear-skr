@@ -2,7 +2,7 @@
 
 ปรับปรุง และแก้ไขปัญหาต่าง ๆ
 
-###รายการที่แก้ไข
+### รายการที่แก้ไข
 
 * Restore Flash as the default EEPROM emulation for LPC176x.
 * Fix the Z_MIN_PROBE_PIN assignment on SKR 1.4.
@@ -12,6 +12,6 @@
 * Fix Z clearance move in G34.
 * Fix "remaining time" cosmetic issue
 
-###เปิดใช้ Feature ใหม่
+### เปิดใช้ Feature ใหม่
 
 * เปิดใช้งานตั้งฐานพิมพ์อัตโนมัติแบบ UBL
