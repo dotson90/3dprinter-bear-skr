@@ -4,6 +4,24 @@
 
 มีการปรับปรุง และแก้ไขปัญหาต่าง ๆ ดังนี้
 
+### เพิ่มเมนู
+
+* เปลี่ยนหัวพิมพ์
+* Calibration อัตโนมัติ
+* Calibration สำหรับพิมพ์เส้น PLA
+* Calibration สำหรับเส้น PETG
+* ทำความสะอาดหัวพิมพ์ด้วยวิธีการ Cold Pull อัตโนมัติ
+* เปิดให้ Feed เส้นในขนณะที่หัวพิมพ์เย็นได้
+* ยกเลิกการ Feed เส้นในขฯะที่หัวพิมพ์เย็น
+* Bed Level แบบ UBL อัตโนมัติ พร้อมทั้ง Save เข้า EEPROM Slot 1
+* Bed Level แบบ UBL อัตโนมัติ พร้อมทั้ง Save เข้า EEPROM Slot 2
+* Bed Level แบบ UBL อัตโนมัติ พร้อมทั้ง Save เข้า EEPROM Slot 3
+* ตั้งระยะหัวพิมพ์แบบ UBL ขั้นตอนที่ 1
+* ตั้งระยะหัวพิมพ์แบบ UBL ขั้นตอนที่ 2 พร้อมทั้ง Save เข้า EEPROM
+* ทำการพิมพ์เพื่อทดสอบ Bed Level
+* Adjust Point Near
+* ล้าง EEPROM ไปเป็นค่าตั้งต้น
+
 ### New Features
 
 * Add LCD backlight control, auto sleep function (Settings->Feature->LCD Brightness)
