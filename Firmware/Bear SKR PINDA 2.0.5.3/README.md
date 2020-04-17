@@ -1,8 +1,11 @@
 # Bear SKR 2.0.5.3
 
-ใช้สำหรับ บอร์ต BigTreeTech SKR 1.4 Turbo และ P.I.N.D.A เท่านั้น
+### ใช้สำหรับ 
 
-มีการปรับปรุง และแก้ไขปัญหาต่าง ๆ ดังนี้
+* บอร์ต BigTreeTech SKR 1.4 Turbo
+* P.I.N.D.A
+* Bondtech BMG
+* Stepper 1.8 @ 1A on X, Y, Z and E
 
 ### New Features
 

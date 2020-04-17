@@ -1,8 +1,9 @@
 # Bear SKR 2.0.5.1
 
-ใช้สำหรับ บอร์ต BigTreeTech SKR 1.4 Turbo กับ BLTouch เท่านั้น
-
-มีการปรับปรุง และแก้ไขปัญหาต่าง ๆ ดังนี้
+* บอร์ต BigTreeTech SKR 1.4 Turbo
+* BLTouch
+* Bondtech BMG
+* Stepper 1.8 @ 1A on X, Y, Z and E
 
 ### รายการที่แก้ไข
 
